@@ -118,15 +118,6 @@ const cityData = {
 - Ensure videos are in MP4 format
 - Keep video file sizes reasonable (<50MB each)
 
-## 🌐 Browser Compatibility
-
-- ✅ Chrome (Android/iOS)
-- ✅ Safari (iOS)
-- ✅ Firefox (Android)
-- ✅ Edge (Android)
-
-## 📞 Support
-
 Need help? Check the `setup-guide.md` file for detailed instructions or create an issue in the repository.
 
 ## 📄 License
