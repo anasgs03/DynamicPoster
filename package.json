@@ -1,0 +1,37 @@
+{
+  "name": "south-korea-ar-map",
+  "version": "1.0.0",
+  "description": "Interactive WebAR experience for South Korea map poster",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "serve": "python -m http.server 8000",
+    "build": "echo 'No build process needed - static HTML/JS'",
+    "deploy": "echo 'Deploy to GitHub Pages through repository settings'"
+  },
+  "keywords": [
+    "AR",
+    "WebAR",
+    "MindAR",
+    "South Korea",
+    "Interactive Map",
+    "A-Frame"
+  ],
+  "author": "POSTECH Research",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/south-korea-ar-map.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie <= 11"
+  ],
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
